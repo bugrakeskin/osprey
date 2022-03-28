@@ -1,5 +1,5 @@
 title = "Osprey Example Site"
-baseURL = "https://storied-elf-848c4d.netlify.app"
+baseURL = "https://eutierria-creations.netlify.app"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
@@ -9,7 +9,7 @@ disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "Osprey Example Site"
+  tagline = "Eutierria Creations"
   author = "Toma Nistor"
   description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
   logoBig = "/images/osprey-logo.png"
