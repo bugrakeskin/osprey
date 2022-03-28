@@ -3,7 +3,6 @@ baseURL = "https://tomanistor.com"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
-theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
 disqusShortname = "tomanistor"
