@@ -1,7 +1,7 @@
 // https://coolors.co/1e1e1e-4e6b6c-f7f7f7-ffffff-da784d
 
 $black: #212121;
-$storm: #4E6B6C;
-$smoke: #848c6c;
+$storm: #9b6d5c;
+$smoke: #f9f7e0;
 $accent: #b08879;
-$white: #f9f7e0;
+$white: #d4d775;
